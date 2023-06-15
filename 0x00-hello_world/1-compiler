@@ -1,2 +1,2 @@
 #!/bin/bash
-export $CFILE=1-main.o
+gcc -C $CFILE -o main.o
