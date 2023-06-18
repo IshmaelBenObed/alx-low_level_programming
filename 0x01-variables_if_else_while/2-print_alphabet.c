@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * main - Entry point
  *
@@ -11,7 +13,7 @@ char myalphabet;
 
 for(myalphabet ='a'; myalphabet <='z'; myalphabet++)
 {
-putchar(myalphabet);
+putchar('myalphabet');
 }
 putchar('\n');
 
