@@ -11,12 +11,12 @@ int main(void)
 
 char myalphabet;
 
-for(myalphabet ='a'; myalphabet <='z'; myalphabet++)
+for (myalphabet = 'a'; myalphabet <= 'z'; myalphabet++)
 {
 putchar(myalphabet);
 }
 putchar('\n');
 
-return(0);
+return (0);
 
 }
