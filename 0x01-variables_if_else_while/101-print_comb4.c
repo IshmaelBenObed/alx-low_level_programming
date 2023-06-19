@@ -16,7 +16,7 @@ for (mynum1 = 0; mynum1 < 7; mynum1++)
 {
 for (mynum2 = mynum1 + 1; mynum2 < 8; mynum2++)
 {
-for (mynum3 = mynum2 + 1; mynum3 <9; mynum3++)
+for (mynum3 = mynum2 + 1; mynum3 < 9; mynum3++)
 {
 putchar((mynum1 % 10) + '0');
 putchar((mynum2 % 10) + '0');
