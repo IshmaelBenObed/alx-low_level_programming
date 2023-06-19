@@ -18,12 +18,13 @@ for (mynum2 = mynum1 + 1; mynum2 < 99; mynum2++)
 putchar(mynum1 /10  + '0');
 putchar ((mynum1 % 10)  +  '0');
 putchar(' ');
-putchar(mynum2 /10  +  '0');
-putchar((mynum2 % 10  +  '0');
+putchar((mynum2 /10)  +  '0');
+putchar((mynum2 % 10)  +  '0');
 
 if (mynum1 == 99 && mynum2 == 98)
+{
 continue;
-
+}
 putchar(',');
 putchar(' ');
 }
