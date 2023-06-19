@@ -24,8 +24,8 @@ if(mynum1 == 8 && mynum2 == 9)
 {
 continue;
 }
-putchar(' , ');
-putchar('  ');
+putchar(',');
+putchar(' ');
 }
 }
 putchar('\n');
