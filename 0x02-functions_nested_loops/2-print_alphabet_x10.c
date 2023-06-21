@@ -21,5 +21,5 @@ _putchar('\n');
 a++;
 }
 
-putchar ('\n')
+putchar('\n');
 }
