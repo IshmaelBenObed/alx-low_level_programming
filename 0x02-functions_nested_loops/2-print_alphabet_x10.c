@@ -1,12 +1,11 @@
 #include "main.h"
-#include <stdio.h>
 /**
  * print_alphabet - make the alphabet x10 times
  *
  * Return: void  
  */
 
- void print_alphabet_x10(void)
+void print_alphabet_x10(void)
 {
 char i;
 int a = 0;
@@ -21,5 +20,4 @@ _putchar('\n');
 a++;
 }
 
-putchar ('\n');
 }
