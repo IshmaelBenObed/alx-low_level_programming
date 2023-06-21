@@ -15,7 +15,7 @@ int abs_val;
 
 abs_val = c * -1;
 
-return (abs_ val);
+return (abs_val);
 
 } 
 
